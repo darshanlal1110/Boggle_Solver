@@ -1,4 +1,4 @@
-# boggle-solver-using-trie
+# boggle-solver
 
 HOW TO USE
 
