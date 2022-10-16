@@ -40,8 +40,3 @@ boggle board
 my_trie.py - contains the code for the trie tree data structure
 
 words.txt - a dictionary, used for finding valid words
-
-DISCLAIMER
-
-This program is not affiliated with Hasbro, Inc., the manufacturer of 
-Boggle, and is intended for educational purposes only. 
